@@ -4,4 +4,7 @@
 -- See the kickstart.nvim README for more information
 return {
   { 'ThePrimeagen/vim-be-good' },
+  { 'ThePrimeagen/harpoon' },
+  { 'mbbill/undotree' },
+  { 'tpope/vim-fugitive' },
 }
